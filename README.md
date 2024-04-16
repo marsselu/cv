@@ -7,20 +7,20 @@ With an initial background in information technology, Marcelo leverages IT resou
 
 Focused on aligning business goals for IT strategies, he has recently decided to develop techniques for developing international project consulting activities.
 
-***** Key Technical Skills *****
-• Scripting language: Bash, Shell Script
-• Programming language bases: Python, Golang, Javascript
-• Continuous Delivery: Github Actions 
-• Monitoring / Observability: Zabbix, Nagios
-• Container orchestration: (in progress)
-• Virtualization: VMWare ESXi, VirtualBox
-• Containers: Docker (in progress)
-• Configuration and provisioning management: (in progress)
-• Firewalls: Linux Iptables
-• Routers/Switches: Cisco
-• Wireless: Ubiquiti, Motorola
-• Server Operating Systems: Linux, Windows, FreeBSD, Unix SCO 
-• Services Windows/Linux: Active Directory, DNS, DHCP, FTP, SSH, VPN (IPSec), Email, Fileservers
-• File Transfer Protocol: FTP, sFTP
-• Database: MySql
-• Cloud Providers: AWS (S3, EC2, Route53)
+***** Key Technical Skills *****<br/>
+• Scripting language: Bash, Shell Script<br/>
+• Programming language bases: Python, Golang, Javascript<br/>
+• Continuous Delivery: Github Actions <br/>
+• Monitoring / Observability: Zabbix, Nagios<br/>
+• Container orchestration: (in progress)<br/>
+• Virtualization: VMWare ESXi, VirtualBox<br/>
+• Containers: Docker (in progress)<br/>
+• Configuration and provisioning management: (in progress)<br/>
+• Firewalls: Linux Iptables<br/>
+• Routers/Switches: Cisco<br/>
+• Wireless: Ubiquiti, Motorola<br/>
+• Server Operating Systems: Linux, Windows, FreeBSD, Unix SCO <br/>
+• Services Windows/Linux: Active Directory, DNS, DHCP, FTP, SSH, VPN (IPSec), Email, Fileservers<br/>
+• File Transfer Protocol: FTP, sFTP<br/>
+• Database: MySql<br/>
+• Cloud Providers: AWS (S3, EC2, Route53)<br/>
